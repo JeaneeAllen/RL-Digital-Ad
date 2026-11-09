@@ -1,0 +1,8 @@
+LEARNED POLICY
+Budget shopper: Shopping ad / sidebar
+Tech enthusiast: Tech ad / banner
+Fitness enthusiast: Fitness ad / feed
+
+HELD-OUT EVALUATION
+Random: CTR=6.48% | ROI=159.13% | Profit=$1193.81
+Q-learning: CTR=13.44% | ROI=437.55% | Profit=$3282.75
